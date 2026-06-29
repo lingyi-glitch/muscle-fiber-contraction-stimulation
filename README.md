@@ -1,6 +1,6 @@
-# Muscle Fiber Contraction Simulation
+# Muscle Fiber Contraction Stimulation
 
-MATLAB implementation of a biophysical skeletal muscle fiber model coupling calcium-mediated excitation, cross-bridge cycling, the First Reaction Method, and a one-dimensional finite element formulation of thin and thick filaments.
+MATLAB implementation of a biophysical skeletal muscle fiber model coupling calcium-mediated excitation, cross-bridge cycling, the First Reaction Method, and the finite element analysis.
 
 This repository accompanies the article:
 
